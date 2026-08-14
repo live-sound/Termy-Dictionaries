@@ -1,6 +1,6 @@
 # Termy Dictionaries
 
-Downloadable offline dictionary packs for [Termy](https://termy.lol/).
+Downloadable offline dictionary packs for Termy.
 
 Each source-language pack is published as a gzip-compressed SQLite database in
 [GitHub Releases](https://github.com/live-sound/Termy-Dictionaries/releases).
