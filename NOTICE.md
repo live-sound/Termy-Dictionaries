@@ -1,40 +1,42 @@
 # Attribution and provenance
 
 The Termy dictionary packs distributed from this repository contain material
-derived from **English Wiktionary**, created by Wiktionary contributors.
+created by Wiktionary contributors. The native-edition packs in this catalog are:
+English, German, French, Spanish, Italian, Portuguese, Vietnamese, Polish, Dutch, Czech, Turkish, Russian, Japanese, Chinese, Korean, Thai, Greek.
 
-- Original project: https://en.wiktionary.org/
-- Contributor histories: available through the history page of each entry
+The following headword packs are derived from the English Wiktionary edition and
+therefore contain English definitions: Swedish, Ukrainian, Hindi, Romanian, Hungarian, Danish, Norwegian Bokmål, Finnish, Croatian, Slovak, Belarusian, Bulgarian, Macedonian.
+
+- Wiktionary: https://www.wiktionary.org/
+- English Wiktionary: https://en.wiktionary.org/
+- Contributor histories: available through each entry's history page
 - Copyright information: https://en.wiktionary.org/wiki/Wiktionary:Copyrights
-- License used for these packs: Creative Commons Attribution-ShareAlike 4.0
-  International, https://creativecommons.org/licenses/by-sa/4.0/
+- Pack license: Creative Commons Attribution-ShareAlike 4.0 International,
+  https://creativecommons.org/licenses/by-sa/4.0/
 
-The structured source export was produced by **Wiktextract** and published by
+The structured exports were produced by **Wiktextract** and published by
 **Kaikki.org**:
 
-- Project: https://kaikki.org/
-- English export: https://kaikki.org/dictionary/English/
+- Kaikki: https://kaikki.org/
 - Wiktextract: https://github.com/tatuylonen/wiktextract
 
 ## Changes made by Termy
 
-Termy converts the structured export into a compact SQLite database optimized
+Termy converts the structured exports into compact SQLite databases optimized
 for offline, case-insensitive lookup. The conversion:
 
-- retains English headwords, selected parts of speech, definitions, up to six
-  examples per sense, inflected-form mappings, and canonical translations into
-  Termy's supported languages;
+- retains headwords, selected parts of speech, definitions, up to six examples
+  per sense, inflected-form mappings, and canonical translations;
 - removes inflection-only senses, empty records, source-parser metadata, and
   data not exposed by Termy's dictionary experience;
 - deduplicates lemmas, definitions, forms, and translation surfaces;
-- stores repeated part-of-speech and language values as integer identifiers;
-- combines multiple canonical translation surfaces for the same sense and
-  target language; and
-- adds SQLite lookup indexes, pack metadata, and gzip compression.
+- maps compatible language aliases such as `nb` to `no` and `sh` to `hr`;
+- supplements safely matched entries with canonical translation links from the
+  English pack without replacing definitions from the source edition;
+- stores repeated values as integer identifiers and adds lookup indexes, pack
+  metadata, and gzip compression.
 
-These packs are adaptations and are distributed under CC BY-SA 4.0. They are
-provided without warranty. Termy is not affiliated with or endorsed by the
-Wikimedia Foundation, Wiktionary, Kaikki.org, or Wiktextract.
-
-Each release's notes and `manifest.json` identify the source snapshot, artifact
-size, checksum, and database schema version.
+These packs are adaptations distributed under CC BY-SA 4.0 and provided without
+warranty. Termy is not affiliated with or endorsed by the Wikimedia Foundation,
+Wiktionary, Kaikki.org, or Wiktextract. Each release's notes and `manifest.json`
+identify its source, artifact sizes, checksums, and database schema version.
