@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-14T00:45:42Z",
+  "packs": [
+    {
+      "source_language": "en",
+      "source_language_name": "English",
+      "version": "2026.08.12",
+      "release_tag": "en-2026.08.12",
+      "asset": {
+        "name": "termy-dictionary-en.sqlite.gz",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/en-2026.08.12/termy-dictionary-en.sqlite.gz",
+        "bytes": 200070852,
+        "sha256": "3f2dd6d160d244cfac224199c84abf73834985bc89ccf7ae0e564ebd70e6e533",
+        "compression": "gzip"
+      },
+      "database": {
+        "bytes": 480407552,
+        "sha256": "e8539d5d288376b71a04d7a0a8bc3554c4062c1e0623ac381cc1992cc80c1524",
+        "format": "sqlite3",
+        "schema_version": 1,
+        "application_id": "TERM"
+      },
+      "content": {
+        "lemmas": 744242,
+        "senses": 1024584,
+        "forms": 1480876,
+        "translation_cells": 1603300,
+        "target_languages": [
+          "de", "fr", "es", "it", "pt", "sv", "vi", "pl", "nl",
+          "cs", "tr", "ru", "uk", "ja", "zh", "ko", "hi", "th",
+          "ro", "hu", "da", "no", "fi", "hr", "sk", "be", "bg",
+          "mk", "el"
+        ]
+      },
+      "source": {
+        "name": "English Wiktionary via Kaikki/Wiktextract",
+        "url": "https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl",
+        "last_modified": "2026-08-12T11:06:30Z",
+        "unpacked_bytes": 3212295539,
+        "sha256": "34b1929e330d52df6a725eb404e0e9456c8ca0dd302fb2ad32354106caf5ff1f",
+        "license": "CC-BY-SA-4.0",
+        "attribution": "English Wiktionary contributors"
+      }
+    }
+  ]
+}

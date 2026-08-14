@@ -1,0 +1,12 @@
+# Dictionary databases are published as GitHub Release assets, never as Git blobs.
+*.sqlite
+*.sqlite.gz
+*.sqlite.zst
+*.jsonl
+*.jsonl.gz
+*.part
+
+# Local build and download directories.
+.codex_tmp/
+dist/
+tmp/
