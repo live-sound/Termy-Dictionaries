@@ -26,7 +26,8 @@ Termy converts the structured exports into compact SQLite databases optimized
 for offline, case-insensitive lookup. The conversion:
 
 - retains headwords, selected parts of speech, definitions, up to six examples
-  per sense, inflected-form mappings, and canonical translations;
+  per sense, textual IPA pronunciations, inflected-form mappings, and canonical
+  translations;
 - removes inflection-only senses, empty records, source-parser metadata, and
   data not exposed by Termy's dictionary experience;
 - deduplicates lemmas, definitions, forms, and translation surfaces;
