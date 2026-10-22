@@ -1,24 +1,24 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T04:20:49Z",
+  "updated_at": "2026-10-22T22:20:58Z",
   "packs": [
     {
       "source_language": "en",
       "source_language_name": "English",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-en.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-en.sqlite.gz",
-        "bytes": 210711812,
-        "sha256": "201663c7a981679ae87b3a67760d6486aedb76b3d85727bedce35d4eb56ac388",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-en.sqlite.gz",
+        "bytes": 210711685,
+        "sha256": "e32ff9bda3416c10e465ae02c5102a23939b505318eb907f8e35a52536e93d62",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 490926080,
-        "sha256": "1b8a82a6f4a6181cdfc400e43a2a5be2fadc8db0a831c3dfde422450c9995b4b",
+        "bytes": 490930176,
+        "sha256": "14091a14ac159296a5e3620988a2cce41ee9b30168f4f32252611b01772aedc5",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -30,6 +30,7 @@
         "translation_entries": 1877434,
         "pronunciation_entries": 224005,
         "synonym_entries": 281364,
+        "noun_gender_entries": 0,
         "definition_language": "en",
         "target_languages": [
           "de",
@@ -75,20 +76,20 @@
     {
       "source_language": "de",
       "source_language_name": "German",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-de.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-de.sqlite.gz",
-        "bytes": 186594585,
-        "sha256": "212667c52e888347856c0e2df288d3c14a5f97353074a8aa836ebafb5a082462",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-de.sqlite.gz",
+        "bytes": 187201506,
+        "sha256": "256ea463b8256a84d6f8cf12a56a04299bb76e39c9a442ffed296106455e7cc3",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 651452416,
-        "sha256": "062c47a079fa31c915f035b229fe24af864e94575b994471a55f4846a3406ec5",
+        "bytes": 654110720,
+        "sha256": "911609b8ea399993c8e4d6122b00e3e9a1455fac9f18c8342a25268bd2f2acca",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -100,6 +101,7 @@
         "translation_entries": 9574993,
         "pronunciation_entries": 200083,
         "synonym_entries": 143878,
+        "noun_gender_entries": 119710,
         "definition_language": "de",
         "target_languages": [
           "en",
@@ -145,20 +147,20 @@
     {
       "source_language": "fr",
       "source_language_name": "French",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-fr.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-fr.sqlite.gz",
-        "bytes": 227846967,
-        "sha256": "a55d12a8458b540794748aefc9bbbcb275ebc6f459e7686b481c590109d69f35",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-fr.sqlite.gz",
+        "bytes": 229110814,
+        "sha256": "8c8419efc7856405fb3d3ac5bb550642302a656080ae2f964a1a2fae9668e9dd",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 657104896,
-        "sha256": "d254575e9e9b8d0eb6321d30efaa109226765dd28047c73043f99388e1845db7",
+        "bytes": 663093248,
+        "sha256": "8c95de7a50b4bad1ff115762029e37d9ea8f27ee3b48dd45ce3307d9f9655b43",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -170,6 +172,7 @@
         "translation_entries": 3765707,
         "pronunciation_entries": 381779,
         "synonym_entries": 139354,
+        "noun_gender_entries": 256379,
         "definition_language": "fr",
         "target_languages": [
           "en",
@@ -215,20 +218,20 @@
     {
       "source_language": "es",
       "source_language_name": "Spanish",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-es.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-es.sqlite.gz",
-        "bytes": 75114394,
-        "sha256": "c14dad423e203e264dd1f6435e65fecdf823767e8e35e237c91fbcfa92b1c3ce",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-es.sqlite.gz",
+        "bytes": 75325918,
+        "sha256": "fe8c63c3a6408451f8906e4891c43f0db49fea6b7da1db6c055ada94310fc314",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 212070400,
-        "sha256": "d89f7a5df6a18e0bfab4e7abed5e3252cb95487d8c5930e230ccc8e4d7c36b5b",
+        "bytes": 213028864,
+        "sha256": "7f8856a879c23a9f87ba5ed63ba7c3f09e3b65b5a3ebcb8a01a3dfce554c57cf",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -240,6 +243,7 @@
         "translation_entries": 2786187,
         "pronunciation_entries": 203176,
         "synonym_entries": 74014,
+        "noun_gender_entries": 41016,
         "definition_language": "es",
         "target_languages": [
           "en",
@@ -285,20 +289,20 @@
     {
       "source_language": "it",
       "source_language_name": "Italian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-it.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-it.sqlite.gz",
-        "bytes": 43471538,
-        "sha256": "c73468592896ad167f3847650e4b35e0d3d42480a8e4ab318b452738e2714673",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-it.sqlite.gz",
+        "bytes": 43640685,
+        "sha256": "2a25ac54c92351245ab26a0aa8f0bec64adc3efa1a78d45d5ca576cbbde44d67",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 133263360,
-        "sha256": "a62432b5030835a1b412b287cdff3b0124cf3383b7112816495feb8926d9e90e",
+        "bytes": 134033408,
+        "sha256": "a8d92f4e51755df9ee357d03abd3b0da664aa111b769f2d21d6dcb0b8cec79f8",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -310,6 +314,7 @@
         "translation_entries": 4506466,
         "pronunciation_entries": 43915,
         "synonym_entries": 170017,
+        "noun_gender_entries": 32478,
         "definition_language": "it",
         "target_languages": [
           "en",
@@ -355,20 +360,20 @@
     {
       "source_language": "pt",
       "source_language_name": "Portuguese",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-pt.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-pt.sqlite.gz",
-        "bytes": 41929871,
-        "sha256": "4ec5051e62f0cb822fa83d491b38f78ac6c2144b8f04e96182f207260ceff386",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-pt.sqlite.gz",
+        "bytes": 42120161,
+        "sha256": "3ebc48ecd25ecc6c76d2d76667d9948f73a92855c524322249e3fb4849eb5875",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 102817792,
-        "sha256": "4adf6a88271a1e4d9a97076d997c25f8f20a9536c226bf0c64c59f22103b2397",
+        "bytes": 103641088,
+        "sha256": "756daa65571cd9aaa1e76a48adb440499dde987917b0d7ef1bcc12462b910b5e",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -380,6 +385,7 @@
         "translation_entries": 2199649,
         "pronunciation_entries": 28326,
         "synonym_entries": 41703,
+        "noun_gender_entries": 36377,
         "definition_language": "pt",
         "target_languages": [
           "en",
@@ -425,20 +431,20 @@
     {
       "source_language": "sv",
       "source_language_name": "Swedish",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-sv.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-sv.sqlite.gz",
-        "bytes": 32174622,
-        "sha256": "b290224a5e470f20b18b9f44af0f36207bc9baeded4e68a03027f5c9f4c2b0d3",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-sv.sqlite.gz",
+        "bytes": 32307287,
+        "sha256": "794f5d12b79b10faa46a6d890c17bd81e69250e74101e60b509363a4ead38a8b",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 77668352,
-        "sha256": "ad0875f50f86398c327fafb888075b04bd0a9b1629a5c6df4f3d190771d125e4",
+        "bytes": 78405632,
+        "sha256": "40a6c96b055ff01729924d243b06d40924230f3cc2af210ad8491d742de24085",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -450,6 +456,7 @@
         "translation_entries": 2025645,
         "pronunciation_entries": 6668,
         "synonym_entries": 18259,
+        "noun_gender_entries": 37015,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -495,20 +502,20 @@
     {
       "source_language": "vi",
       "source_language_name": "Vietnamese",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-vi.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-vi.sqlite.gz",
-        "bytes": 12736166,
-        "sha256": "ed6ecd5928a74e43420a6e9939ebe71d4c45fd1d302868c8afc8085713f011ec",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-vi.sqlite.gz",
+        "bytes": 12736262,
+        "sha256": "665196d7d8f366b705b886e3bdc2436d56143fe6d44dbec414e19a5768431f13",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 30990336,
-        "sha256": "6713dbcaab14624bab623e4b8bfc296fd9c9f403a92eb47f2a021541428895ad",
+        "bytes": 30994432,
+        "sha256": "ec770ae944bed311421b43042729b8781089ce54ea504135f479945c0e45fe3c",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -520,6 +527,7 @@
         "translation_entries": 691598,
         "pronunciation_entries": 148075,
         "synonym_entries": 5653,
+        "noun_gender_entries": 0,
         "definition_language": "vi",
         "target_languages": [
           "en",
@@ -565,20 +573,20 @@
     {
       "source_language": "pl",
       "source_language_name": "Polish",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-pl.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-pl.sqlite.gz",
-        "bytes": 78015354,
-        "sha256": "fd0ea968d7b4f4e1683ea6e1d1e84229d81277feea4728fca9188586ea2a03d2",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-pl.sqlite.gz",
+        "bytes": 78339550,
+        "sha256": "dd1101634fd9b738ee5b03b7032205bcc615ce837df9ac2373d1c21648c8740c",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 220311552,
-        "sha256": "ee4d21783857dd2e4caa76d83c813e0c49a0941d917e18a838d76a742952ecd8",
+        "bytes": 221761536,
+        "sha256": "de5727b1098361caa1c862ff5eb099b63158e2f55d37056d5c600f956d2413ae",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -590,6 +598,7 @@
         "translation_entries": 2725363,
         "pronunciation_entries": 89695,
         "synonym_entries": 89618,
+        "noun_gender_entries": 65606,
         "definition_language": "pl",
         "target_languages": [
           "en",
@@ -635,20 +644,20 @@
     {
       "source_language": "nl",
       "source_language_name": "Dutch",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-nl.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-nl.sqlite.gz",
-        "bytes": 88857049,
-        "sha256": "45a03888e2b009e99f3435a8a7c978112be4cbcf481d25265da3c8b8efe4b1db",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-nl.sqlite.gz",
+        "bytes": 89453009,
+        "sha256": "8deca25d5458d808e6966b04b5ddd5f6226de28301fa974268c8f84ad79a3973",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 239525888,
-        "sha256": "3c5bfa83fbe99c31b6bc0474f33eb1721069d2fb666488ce27f547e9499e73aa",
+        "bytes": 242442240,
+        "sha256": "3b34cdb6d703083996daf5e9d5d7d834b159ac2152760da14f9e6653d1c70e58",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -660,6 +669,7 @@
         "translation_entries": 2445680,
         "pronunciation_entries": 78373,
         "synonym_entries": 105706,
+        "noun_gender_entries": 114598,
         "definition_language": "nl",
         "target_languages": [
           "en",
@@ -705,20 +715,20 @@
     {
       "source_language": "cs",
       "source_language_name": "Czech",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-cs.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-cs.sqlite.gz",
-        "bytes": 34008824,
-        "sha256": "049686f2d015615cd7fc828e4cbf7b3e83661b48b17a05a51f00443d686cc3c8",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-cs.sqlite.gz",
+        "bytes": 34137764,
+        "sha256": "09adb010a0a946b2891f693576a2bbffa6cdd0b0a5435a0e7d27de00ee2b2f6f",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 90218496,
-        "sha256": "de228347618970a08dc0fcdfbc3f9a99b1573187eceb25f16cf7c8097737401c",
+        "bytes": 90763264,
+        "sha256": "a2dbf95894ba38d466a36e69f7081077ddc6a41c979d1335bc4494f6d1e0fa22",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -730,6 +740,7 @@
         "translation_entries": 1497814,
         "pronunciation_entries": 45664,
         "synonym_entries": 55021,
+        "noun_gender_entries": 24970,
         "definition_language": "cs",
         "target_languages": [
           "en",
@@ -775,20 +786,20 @@
     {
       "source_language": "tr",
       "source_language_name": "Turkish",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-tr.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-tr.sqlite.gz",
-        "bytes": 52971783,
-        "sha256": "cd7a1361d984ca96df45538d7ca2acee92b051978b9497ac3cd14fdf5dfecd39",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-tr.sqlite.gz",
+        "bytes": 52972240,
+        "sha256": "b6616c36bed26c7e9010b896f41618c13428ec174504a5a14bb5926a37cfd101",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 162549760,
-        "sha256": "61610b2c5a5f780117668251fbe8e9ec7e4b3e2bfcb738d810e7a4354f83df5c",
+        "bytes": 162553856,
+        "sha256": "7ba7b9b58622e817045b5c1143cc4d1d78760ef61d7f08c65866da8414059210",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -800,6 +811,7 @@
         "translation_entries": 1472746,
         "pronunciation_entries": 8386,
         "synonym_entries": 5661,
+        "noun_gender_entries": 0,
         "definition_language": "tr",
         "target_languages": [
           "en",
@@ -845,20 +857,20 @@
     {
       "source_language": "ru",
       "source_language_name": "Russian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-ru.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-ru.sqlite.gz",
-        "bytes": 176743871,
-        "sha256": "ab9197eb09755c9c55891917692d9bc0cf0ab91fb919b2bdcf3c1ae29c20dc0a",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-ru.sqlite.gz",
+        "bytes": 177367615,
+        "sha256": "e27e1f0dfa6d30fb3496508514e22b64957bbf33734c7576ea7451137c56526d",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 654663680,
-        "sha256": "e2e0060d1b25a730e57c5b3ce49785d3605f449fda0bbb42a0a758f3f80df63b",
+        "bytes": 657735680,
+        "sha256": "30fc961decfc3a77fcf14d049e26f3863767a19d82eb6c82101fa7850aae164d",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -870,6 +882,7 @@
         "translation_entries": 3178165,
         "pronunciation_entries": 417601,
         "synonym_entries": 205149,
+        "noun_gender_entries": 136583,
         "definition_language": "ru",
         "target_languages": [
           "en",
@@ -915,20 +928,20 @@
     {
       "source_language": "uk",
       "source_language_name": "Ukrainian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-uk.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-uk.sqlite.gz",
-        "bytes": 27340665,
-        "sha256": "abe207feaa029c97f48162e31f59fcf212047d90f4ee289c60f31eabdbe434df",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-uk.sqlite.gz",
+        "bytes": 27408663,
+        "sha256": "4cff284b51aa5a1e0ebd8f19c01980793b4325c06d82d883f3918a62b08ddefb",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 83390464,
-        "sha256": "283addbb368f0f65037d5c92246024b0cb6d6d9d4e97ef6f5755f7a971c1683a",
+        "bytes": 83673088,
+        "sha256": "f8dd01e087176a4618acc0caf44e8e15a411695d0c1b629a42d8b10340662443",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -940,6 +953,7 @@
         "translation_entries": 1436588,
         "pronunciation_entries": 29961,
         "synonym_entries": 20720,
+        "noun_gender_entries": 12816,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -985,20 +999,20 @@
     {
       "source_language": "ja",
       "source_language_name": "Japanese",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-ja.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-ja.sqlite.gz",
-        "bytes": 35875341,
-        "sha256": "d2d6534c9987f92459a321859560fc1d494a13d125af244b5acd24cd22e8c1a4",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-ja.sqlite.gz",
+        "bytes": 35875320,
+        "sha256": "832203c21319d9094e635ec3daa06e250ccffd371a1b11fdc5789227be62efd8",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 82583552,
-        "sha256": "68f19b51e22ead39fc5d8cf6041e31812c38b9274547eb572c90878d0ad0d094",
+        "bytes": 82587648,
+        "sha256": "4bb3175ccb1aa76bfa63dca1174900b9d4d12da6fdb5d361251ff7b8fb37cecf",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1010,6 +1024,7 @@
         "translation_entries": 1644724,
         "pronunciation_entries": 224,
         "synonym_entries": 21241,
+        "noun_gender_entries": 0,
         "definition_language": "ja",
         "target_languages": [
           "en",
@@ -1055,20 +1070,20 @@
     {
       "source_language": "zh",
       "source_language_name": "Chinese",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-zh.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-zh.sqlite.gz",
-        "bytes": 14742401,
-        "sha256": "ba05d7ec54d243f8cdfb239c093c948192701b08b0b2e728f7ce5d70f1716ab3",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-zh.sqlite.gz",
+        "bytes": 14742382,
+        "sha256": "3b7936fc24d5818a185c32c26fd8a6ef554fcaebd0dfc5af36e06880f0343cc2",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 34095104,
-        "sha256": "45ea73f539971e4cfc323d41aec45b3578a495cfa28705b6294e4c6ffcf0e9f2",
+        "bytes": 34099200,
+        "sha256": "c2f82bf1c76177d6e9b4a9340c9d4891362aa9ebd290f2f4c89691c29522a1b5",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1080,6 +1095,7 @@
         "translation_entries": 275660,
         "pronunciation_entries": 196056,
         "synonym_entries": 128459,
+        "noun_gender_entries": 0,
         "definition_language": "zh",
         "target_languages": [
           "en",
@@ -1125,20 +1141,20 @@
     {
       "source_language": "ko",
       "source_language_name": "Korean",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-ko.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-ko.sqlite.gz",
-        "bytes": 10607418,
-        "sha256": "77256f65221197dff949dcd42f63b2e63d09a285c9ed6c65b8a97e751203fa98",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-ko.sqlite.gz",
+        "bytes": 10607539,
+        "sha256": "a2ae1e54591c610856d59d6cf9236ec48343edc818f3d9565c26bcc3a13f1c56",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 24391680,
-        "sha256": "4b0012e8b33dbc2ab5b487fbe307c15e7223030350c926b0b729e080468bb725",
+        "bytes": 24395776,
+        "sha256": "7b481c12f3d6fd9787ee31147dd5a39f37b3855c4c9cf9380eac815de5338fab",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1150,6 +1166,7 @@
         "translation_entries": 724015,
         "pronunciation_entries": 33293,
         "synonym_entries": 12783,
+        "noun_gender_entries": 0,
         "definition_language": "ko",
         "target_languages": [
           "en",
@@ -1195,20 +1212,20 @@
     {
       "source_language": "hi",
       "source_language_name": "Hindi",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-hi.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-hi.sqlite.gz",
-        "bytes": 19742386,
-        "sha256": "676f43b5d50d52f5051db1f9126719fa1a5d973c1531e4958c8c8fb7091683b5",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-hi.sqlite.gz",
+        "bytes": 19811790,
+        "sha256": "cbc2dcac0179cc222c2489459fc1011d3d2fccf9109bd12e03e74258c024e13d",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 65261568,
-        "sha256": "39ecc6b8dc23ca80d9bc7a226b2db3a088aa07f4835c8689ae1e04ff0f05bfda",
+        "bytes": 65564672,
+        "sha256": "44aaa2945b1d454af4cffbfef82756e5e4ad850dfa08199b4e21ee897141f55b",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1220,6 +1237,7 @@
         "translation_entries": 987107,
         "pronunciation_entries": 47294,
         "synonym_entries": 21665,
+        "noun_gender_entries": 13486,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1265,20 +1283,20 @@
     {
       "source_language": "th",
       "source_language_name": "Thai",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-th.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-th.sqlite.gz",
-        "bytes": 9295226,
-        "sha256": "75ac0cba6be0285a77533b4d963daba97e5cb4ef00bd35b60dbc8fad2c8220df",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-th.sqlite.gz",
+        "bytes": 9295346,
+        "sha256": "0f32145a7a1c086ec158af5220fe3ca5e8ae2c5d15721376c7ca6ec0818c610c",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 27176960,
-        "sha256": "e47bd89b87a9087fee93d979bcd9197d88a2e71ef66952f8a6654f3b46181922",
+        "bytes": 27181056,
+        "sha256": "68b758a9e5c26de39410d9336983227b09bf9df62c29a5de8a6eb2b2b876235f",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1290,6 +1308,7 @@
         "translation_entries": 571869,
         "pronunciation_entries": 25704,
         "synonym_entries": 5900,
+        "noun_gender_entries": 0,
         "definition_language": "th",
         "target_languages": [
           "en",
@@ -1335,20 +1354,20 @@
     {
       "source_language": "ro",
       "source_language_name": "Romanian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-ro.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-ro.sqlite.gz",
-        "bytes": 36363101,
-        "sha256": "e6a653fc8f622d89de6df57ec6b87388073f4a84fee5d06fa0439496b976cc41",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-ro.sqlite.gz",
+        "bytes": 36612514,
+        "sha256": "f73cd8c0e57e8e88f553cab705f8f2a82390cc7a39dc110de246eaa772a4b8bb",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 95764480,
-        "sha256": "f8391c65037857b88990211f598a1b2fd7ff86835cc9a08dd890ba8cf927aa10",
+        "bytes": 96854016,
+        "sha256": "c33fd46c4821aa9091d42a01afa0fdd475beaf56f6fcb2fd7d3957fc95b4138b",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1360,6 +1379,7 @@
         "translation_entries": 1443418,
         "pronunciation_entries": 10054,
         "synonym_entries": 11977,
+        "noun_gender_entries": 50295,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1405,20 +1425,20 @@
     {
       "source_language": "hu",
       "source_language_name": "Hungarian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-hu.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-hu.sqlite.gz",
-        "bytes": 62398638,
-        "sha256": "38251f66ad443e8032c2df70abeb44090dd83096149098687b8169d9131b3fd7",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-hu.sqlite.gz",
+        "bytes": 62398576,
+        "sha256": "0a96c8676abbbfcd77ecd8868c17c31158a682086e1847c2db958a0a3f0eb48b",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 200650752,
-        "sha256": "ff22b41cfd7872504f5b14a0fa37e42d602dd93ba5d0d7ab356e72894da2b18f",
+        "bytes": 200654848,
+        "sha256": "0e8d62ff7c4090bbe4fadc403467a183f6e44bc8c7f30ea368e3e83c18aa06ca",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1430,6 +1450,7 @@
         "translation_entries": 1950559,
         "pronunciation_entries": 39394,
         "synonym_entries": 23073,
+        "noun_gender_entries": 0,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1475,20 +1496,20 @@
     {
       "source_language": "da",
       "source_language_name": "Danish",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-da.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-da.sqlite.gz",
-        "bytes": 14923777,
-        "sha256": "fd3ca93d6e08263b496bea81e8984ec70610cd1099a315dc3becb51279a31651",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-da.sqlite.gz",
+        "bytes": 14976517,
+        "sha256": "482306e05df9e67836a4161938d4cab30d5101c063894ca0e18248e0d21a09f1",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 34209792,
-        "sha256": "e6c8d4ddaa08f9fea599606b80f5fc93b8cd0b8cac3575ca845904cf86326dde",
+        "bytes": 34467840,
+        "sha256": "1887904c17e669836385c5df9bbb100231dc39e262e46c4a373a5068181ae710",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1500,6 +1521,7 @@
         "translation_entries": 1069603,
         "pronunciation_entries": 13186,
         "synonym_entries": 9288,
+        "noun_gender_entries": 13008,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1545,20 +1567,20 @@
     {
       "source_language": "no",
       "source_language_name": "Norwegian Bokmål",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-no.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-no.sqlite.gz",
-        "bytes": 13052295,
-        "sha256": "84812d5d740bc34b6ce96546b01da4dc950487161cf722c9f164e6a5c7ba68be",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-no.sqlite.gz",
+        "bytes": 13126745,
+        "sha256": "cbe57db763645d96f9d3f8901ac1f2d0f3247dfd9c272612b9ca9f3a0a4d8ac6",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 28704768,
-        "sha256": "0e5c80db16fbdc947025c0cec0918f5ab0e6e629b54bd5e34b7061e254ae7a1a",
+        "bytes": 29040640,
+        "sha256": "cdf5a172b08fb72d41905bd5bddf4d07ca6817f5e4c50c0922b17b828c216157",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1570,6 +1592,7 @@
         "translation_entries": 1027757,
         "pronunciation_entries": 5678,
         "synonym_entries": 4487,
+        "noun_gender_entries": 13824,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1615,20 +1638,20 @@
     {
       "source_language": "fi",
       "source_language_name": "Finnish",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-fi.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-fi.sqlite.gz",
-        "bytes": 503333467,
-        "sha256": "c622e60afbd2734bae99739e311f468b1aeb52b1c99e34632ab41948d9f49f22",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-fi.sqlite.gz",
+        "bytes": 503334183,
+        "sha256": "3eeefe620dc2e7bb6c9acad27f6c03d5ff217f67a536748d544eb0825b329506",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 2018045952,
-        "sha256": "79c2e6f0bbc1b2e8ae2948af5a04779b52dbdbea83f200ddff4ac1cb364ed9ac",
+        "bytes": 2018050048,
+        "sha256": "85186ef0b36c4f5744f13245c253461fd271cc4c3a101ba525102ed28fcd3c52",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1640,6 +1663,7 @@
         "translation_entries": 3873898,
         "pronunciation_entries": 341077,
         "synonym_entries": 47923,
+        "noun_gender_entries": 0,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1685,20 +1709,20 @@
     {
       "source_language": "hr",
       "source_language_name": "Croatian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-hr.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-hr.sqlite.gz",
-        "bytes": 27359243,
-        "sha256": "33caaed1fb9da803744ff13757e721a877ca747a5c33c230d23ee20c1463dd96",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-hr.sqlite.gz",
+        "bytes": 27442111,
+        "sha256": "9f2867c9298171374fffe9a3e6cc825e670dd87384d89a85ab8396dcba98460f",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 81510400,
-        "sha256": "c15ace3bb852a4fbdd63663c37221e7f204f9181f42ddb60471507a33fc40ed6",
+        "bytes": 81862656,
+        "sha256": "c35d6975a27c6bea9ae886acb9af3fd21f6ffd4f52e918106a491704021a22b1",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1710,6 +1734,7 @@
         "translation_entries": 1010905,
         "pronunciation_entries": 28103,
         "synonym_entries": 5984,
+        "noun_gender_entries": 16124,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1755,20 +1780,20 @@
     {
       "source_language": "sk",
       "source_language_name": "Slovak",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-sk.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-sk.sqlite.gz",
-        "bytes": 8893845,
-        "sha256": "2e811dfd8a8adb61b507fe624fa2a6536f6fd7e79b0ad3386a0f1b5a3a21abef",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-sk.sqlite.gz",
+        "bytes": 8920728,
+        "sha256": "b6c50569942c06d3608601bc346a09cfb11177e7956ea63d30604b9885a86faf",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 23744512,
-        "sha256": "312f39027b853a9067a866eca68e1e6f2b325ade5046fcdee21078c2130575b0",
+        "bytes": 23863296,
+        "sha256": "ee5e623c7789683a431006a1ea6c64e524c1b50ffcaa5e79c09244c77ae7a9e7",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1780,6 +1805,7 @@
         "translation_entries": 463044,
         "pronunciation_entries": 23772,
         "synonym_entries": 4345,
+        "noun_gender_entries": 5280,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1825,20 +1851,20 @@
     {
       "source_language": "be",
       "source_language_name": "Belarusian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-be.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-be.sqlite.gz",
-        "bytes": 6026115,
-        "sha256": "8672586140e116d40306dc38369bc33c50a9a31e4c8934bdde00d2d6ef8b0168",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-be.sqlite.gz",
+        "bytes": 6042523,
+        "sha256": "88ab7ad486b15dbee2e4105947adb013461f5a619c94917826abac0870339d9c",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 16125952,
-        "sha256": "000588b4d2d8cd0f27e178b33e09770ce75968a78cf11bd9aedb3cf08341dd5d",
+        "bytes": 16199680,
+        "sha256": "7cc2af784374e4936d292bcacf06e15fbd4c601fc6a7db6699eb31787b93855e",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1850,6 +1876,7 @@
         "translation_entries": 451452,
         "pronunciation_entries": 5636,
         "synonym_entries": 2207,
+        "noun_gender_entries": 2908,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1895,20 +1922,20 @@
     {
       "source_language": "bg",
       "source_language_name": "Bulgarian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-bg.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-bg.sqlite.gz",
-        "bytes": 18951605,
-        "sha256": "d056b2f320f65dfa709cd567bbde29bc14cd4048816d907c4fa6bc6ed47fc828",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-bg.sqlite.gz",
+        "bytes": 18999313,
+        "sha256": "2a6ab78b475b3347e6e6b0463e9e8a65452d2c6c2f30e1b91157d82216aed406",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 54075392,
-        "sha256": "f6cb3672940255069f530150a7f4657a3085bc3ba6805c2739638a826d3e5f53",
+        "bytes": 54276096,
+        "sha256": "af3c1ab69e76b1bcc61550d12f966a8c3f5aca944ae329913e3669095d940bbe",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1920,6 +1947,7 @@
         "translation_entries": 1226532,
         "pronunciation_entries": 18689,
         "synonym_entries": 10507,
+        "noun_gender_entries": 9114,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -1965,20 +1993,20 @@
     {
       "source_language": "mk",
       "source_language_name": "Macedonian",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-mk.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-mk.sqlite.gz",
-        "bytes": 30235357,
-        "sha256": "6e5b7cdb5229afbbf4ec0b7fb37fd9b09009f57160ee4cb2b674c20248d0b373",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-mk.sqlite.gz",
+        "bytes": 30331712,
+        "sha256": "c66e9211c309a97e7d91e23c58ace4f04dde4b9c3575a859b3672433aa8769c5",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 106184704,
-        "sha256": "1cad5e189893197e93985701a0296aa0773d1a1dc4fd64bb41ac56365895dd0f",
+        "bytes": 106602496,
+        "sha256": "b7cdc98144364134465c6ed8c75783c057cced31250fb4383eb6d647c7d55f7b",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -1990,6 +2018,7 @@
         "translation_entries": 915200,
         "pronunciation_entries": 45021,
         "synonym_entries": 3353,
+        "noun_gender_entries": 19212,
         "definition_language": "en",
         "target_languages": [
           "en",
@@ -2035,20 +2064,20 @@
     {
       "source_language": "el",
       "source_language_name": "Greek",
-      "version": "2026.10.21",
-      "release_tag": "dictionaries-v5-2026.10.21",
+      "version": "2026.10.22",
+      "release_tag": "dictionaries-v6-2026.10.22",
       "asset": {
         "name": "termy-dictionary-el.sqlite.gz",
-        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v5-2026.10.21/termy-dictionary-el.sqlite.gz",
-        "bytes": 103961880,
-        "sha256": "7bd390f19c7a7ea2323095ecff168dedd0d9ca3e71cc908c64f3d45abbd91197",
+        "url": "https://github.com/live-sound/Termy-Dictionaries/releases/download/dictionaries-v6-2026.10.22/termy-dictionary-el.sqlite.gz",
+        "bytes": 104207809,
+        "sha256": "8ce37ba51d9c496fd23336eb6c34acf96d9e4006037ff41f134e6d238dc3b17e",
         "compression": "gzip"
       },
       "database": {
-        "bytes": 373460992,
-        "sha256": "683e61fcd8504832083349694995e0e428c94f1037df62879d155c14fac24ef4",
+        "bytes": 374558720,
+        "sha256": "f09433eae1b65fb3f1f886669a44cc3c345bc7586f172043cce514f2af3af168",
         "format": "sqlite3",
-        "schema_version": 5,
+        "schema_version": 6,
         "application_id": "TERM"
       },
       "content": {
@@ -2060,6 +2089,7 @@
         "translation_entries": 1665490,
         "pronunciation_entries": 34812,
         "synonym_entries": 30984,
+        "noun_gender_entries": 50333,
         "definition_language": "el",
         "target_languages": [
           "en",

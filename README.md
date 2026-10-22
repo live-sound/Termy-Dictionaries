@@ -11,36 +11,36 @@ it directly; large pack files are not stored in Git history.
 
 | Source language | Definition language | Download | Installed | Release |
 |---|---|---:|---:|---|
-| English | English | 210.7 MB | 490.9 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| German | German | 186.6 MB | 651.5 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| French | French | 227.8 MB | 657.1 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Spanish | Spanish | 75.1 MB | 212.1 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Italian | Italian | 43.5 MB | 133.3 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Portuguese | Portuguese | 41.9 MB | 102.8 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Swedish | English | 32.2 MB | 77.7 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Vietnamese | Vietnamese | 12.7 MB | 31.0 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Polish | Polish | 78.0 MB | 220.3 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Dutch | Dutch | 88.9 MB | 239.5 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Czech | Czech | 34.0 MB | 90.2 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Turkish | Turkish | 53.0 MB | 162.5 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Russian | Russian | 176.7 MB | 654.7 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Ukrainian | English | 27.3 MB | 83.4 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Japanese | Japanese | 35.9 MB | 82.6 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Chinese | Chinese | 14.7 MB | 34.1 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Korean | Korean | 10.6 MB | 24.4 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Hindi | English | 19.7 MB | 65.3 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Thai | Thai | 9.3 MB | 27.2 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Romanian | English | 36.4 MB | 95.8 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Hungarian | English | 62.4 MB | 200.7 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Danish | English | 14.9 MB | 34.2 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Norwegian Bokmål | English | 13.1 MB | 28.7 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Finnish | English | 503.3 MB | 2018.0 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Croatian | English | 27.4 MB | 81.5 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Slovak | English | 8.9 MB | 23.7 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Belarusian | English | 6.0 MB | 16.1 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Bulgarian | English | 19.0 MB | 54.1 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Macedonian | English | 30.2 MB | 106.2 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
-| Greek | Greek | 104.0 MB | 373.5 MB | [`dictionaries-v5-2026.10.21`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v5-2026.10.21) |
+| English | English | 210.7 MB | 490.9 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| German | German | 187.2 MB | 654.1 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| French | French | 229.1 MB | 663.1 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Spanish | Spanish | 75.3 MB | 213.0 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Italian | Italian | 43.6 MB | 134.0 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Portuguese | Portuguese | 42.1 MB | 103.6 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Swedish | English | 32.3 MB | 78.4 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Vietnamese | Vietnamese | 12.7 MB | 31.0 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Polish | Polish | 78.3 MB | 221.8 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Dutch | Dutch | 89.5 MB | 242.4 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Czech | Czech | 34.1 MB | 90.8 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Turkish | Turkish | 53.0 MB | 162.6 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Russian | Russian | 177.4 MB | 657.7 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Ukrainian | English | 27.4 MB | 83.7 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Japanese | Japanese | 35.9 MB | 82.6 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Chinese | Chinese | 14.7 MB | 34.1 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Korean | Korean | 10.6 MB | 24.4 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Hindi | English | 19.8 MB | 65.6 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Thai | Thai | 9.3 MB | 27.2 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Romanian | English | 36.6 MB | 96.9 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Hungarian | English | 62.4 MB | 200.7 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Danish | English | 15.0 MB | 34.5 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Norwegian Bokmål | English | 13.1 MB | 29.0 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Finnish | English | 503.3 MB | 2018.1 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Croatian | English | 27.4 MB | 81.9 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Slovak | English | 8.9 MB | 23.9 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Belarusian | English | 6.0 MB | 16.2 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Bulgarian | English | 19.0 MB | 54.3 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Macedonian | English | 30.3 MB | 106.6 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
+| Greek | Greek | 104.2 MB | 374.6 MB | [`dictionaries-v6-2026.10.22`](https://github.com/live-sound/Termy-Dictionaries/releases/tag/dictionaries-v6-2026.10.22) |
 
 The canonical machine-readable catalog is [`manifest.json`](manifest.json).
 Clients should verify the asset's SHA-256 checksum before installation.

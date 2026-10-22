@@ -27,7 +27,8 @@ for offline, case-insensitive lookup. The conversion:
 
 - retains headwords, selected parts of speech, definitions, up to six examples
   per sense, textual IPA pronunciations, up to eight synonyms per headword and
-  part of speech, inflected-form mappings, and canonical translations;
+  part of speech, the grammatical gender of nouns, inflected-form mappings, and
+  canonical translations;
 - removes inflection-only senses, obsolete, archaic and dated synonyms, empty
   records, source-parser metadata, and data not exposed by Termy's dictionary
   experience;
