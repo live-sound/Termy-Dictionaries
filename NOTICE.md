@@ -26,11 +26,12 @@ Termy converts the structured exports into compact SQLite databases optimized
 for offline, case-insensitive lookup. The conversion:
 
 - retains headwords, selected parts of speech, definitions, up to six examples
-  per sense, textual IPA pronunciations, inflected-form mappings, and canonical
-  translations;
-- removes inflection-only senses, empty records, source-parser metadata, and
-  data not exposed by Termy's dictionary experience;
-- deduplicates lemmas, definitions, forms, and translation surfaces;
+  per sense, textual IPA pronunciations, up to eight synonyms per headword and
+  part of speech, inflected-form mappings, and canonical translations;
+- removes inflection-only senses, obsolete, archaic and dated synonyms, empty
+  records, source-parser metadata, and data not exposed by Termy's dictionary
+  experience;
+- deduplicates lemmas, definitions, forms, synonyms, and translation surfaces;
 - maps compatible language aliases such as `nb` to `no` and `sh` to `hr`;
 - supplements safely matched entries with canonical translation links from the
   English pack without replacing definitions from the source edition;
